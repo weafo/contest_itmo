@@ -1,0 +1,5842 @@
+[
+  {
+    "program": "ai",
+    "semester": null,
+    "type": "Не определено",
+    "name": "Индивидуальная профессиональная подготовка (по профессиональным областям, по",
+    "ects": 48,
+    "hours": 1728
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Обязательная",
+    "name": "профессиональным ролям, по уровню сложности и др.) Обязательные дисциплины. 1 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Обязательная",
+    "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 1 семестр",
+    "ects": 15,
+    "hours": 540
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Практика применения машинного обучения",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Алгоритмы и структуры данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Программирование на С++",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Автоматическое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Обработка и генерация изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Хранение больших данных и Введение в МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Вычисления на графических процессорах (GPU)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "UNIX/Linux системы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Инструменты разработки data-driven решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Контейнеризация и оркестрация приложений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Графические интерфейсы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Создание интеллектуальных агентов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Инжиниринг управления данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Бизнес-аналитика для инженеров",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Языки программирования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Дополнительные разделы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Базы данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Глубокое обучение на практике",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Глубокие генеративные модели (Deep Generative Models)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Дополнительные разделы математики и алгоритмов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Индивидуальная профессиональная подготовка (по профессиональным областям, по профессиональным ролям, по уровню сложности и др.)",
+    "ects": 48,
+    "hours": 1728
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обязательные дисциплины. 1 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 1 семестр",
+    "ects": 15,
+    "hours": 540
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Практика применения машинного обучения",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Алгоритмы и структуры данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Программирование на С++",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Автоматическое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обработка и генерация изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Хранение больших данных и Введение в МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Вычисления на графических процессорах (GPU)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "UNIX/Linux системы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Инструменты разработки data-driven решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Контейнеризация и оркестрация приложений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Графические интерфейсы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Создание интеллектуальных агентов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Инжиниринг управления данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Бизнес-аналитика для инженеров",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Языки программирования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Дополнительные разделы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Базы данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Глубокое обучение на практике",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Глубокие генеративные модели (Deep Generative Models)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Дополнительные разделы математики и алгоритмов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "DevOps практики и инструменты",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Технологии и практики MLOps",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Прикладная математика и статистика / Applied Math and Statistics",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Социальные сети",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Специальные главы геномики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Специальные главы биоинформатики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Нейросети в химии / Neural Networks in Chemistry",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обучение с подкреплением",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Разработка приложений разговорного искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Распознавание и генерация речи",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Компьютерное зрение (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обработка изображений и Компьютерное зрение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "А/В тестирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Информационный поиск",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Сбор и разметка данных для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Безопасность ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Системы обработки и анализа больших массивов данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление технологическим продуктом",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Языки программирования для работы с данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 3 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Алгоритмы и структуры данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Программирование на С++",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Автоматическое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обработка и генерация изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Мультимодальные генеративные модели искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Хранение больших данных и Введение в МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Базы данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "DevOps практики и инструменты",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии и практики MLOps",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладная математика и статистика / Applied Math and Statistics",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Социальные сети",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Специальные главы геномики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Специальные главы биоинформатики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Нейросети в химии / Neural Networks in Chemistry",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обучение с подкреплением",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Разработка приложений разговорного искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Распознавание и генерация речи",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Компьютерное зрение (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обработка изображений и Компьютерное зрение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "А/В тестирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Информационный поиск",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Сбор и разметка данных для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Безопасность ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Системы обработки и анализа больших массивов данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление технологическим продуктом",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Языки программирования для работы с данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 3 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Алгоритмы и структуры данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Программирование на С++",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в МО (Python) и Продвинутое МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Автоматическое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обработка и генерация изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование и разработка рекомендательных систем (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Глубокое обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Мультимодальные генеративные модели искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Хранение больших данных и Введение в МО (Python)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Базы данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Вычисления на графических процессорах (GPU)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "UNIX/Linux системы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инструменты разработки data-driven решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Контейнеризация и оркестрация приложений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Графические интерфейсы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Воркшоп по применению ИИ",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Мастерская по проектам для работы с данными",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инжиниринг управления данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладная математика для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Языки программирования. Продвинутый уровень",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продвинутое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Бизнес-аналитика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 4 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Глубокие генеративные модели (Deep Generative Models)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Дополнительные разделы математики и алгоритмов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "DevOps практики и инструменты",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии и практики MLOps",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Прикладная математика и статистика / Applied Math and Statistics",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Социальные сети",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Специальные главы геномики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Специальные главы биоинформатики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Нейросети в химии / Neural Networks in Chemistry",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Обучение с подкреплением",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Разработка приложений разговорного искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Распознавание и генерация речи",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Компьютерное зрение (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Обработка изображений и Компьютерное зрение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "А/В тестирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Сбор и разметка данных для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Системы обработки и анализа больших массивов данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Безопасность ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Информационный поиск",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Воркшоп по ML",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Языки программирования для работы с данными. Продвинутый уровень",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое машинное обучение - дополнительные главы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Вычисления на графических процессорах (GPU)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "UNIX/Linux системы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Инструменты разработки data-driven решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Контейнеризация и оркестрация приложений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Графические интерфейсы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Воркшоп по применению ИИ",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Мастерская по проектам для работы с данными",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Инжиниринг управления данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Прикладная математика для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Языки программирования. Продвинутый уровень",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое машинное обучение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Бизнес-аналитика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 4 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Глубокие генеративные модели (Deep Generative Models)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Дополнительные разделы математики и алгоритмов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "DevOps практики и инструменты",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии и практики MLOps",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Автоматическая обработка текстов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое МО (Python) и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Прикладная математика и статистика / Applied Math and Statistics",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Социальные сети",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Специальные главы геномики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Специальные главы биоинформатики",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Нейросети в химии / Neural Networks in Chemistry",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Обучение с подкреплением",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Разработка приложений разговорного искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Распознавание и генерация речи",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии обработки естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Компьютерное зрение (продвинутый уровень)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Обработка изображений и Компьютерное зрение",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Автоматическая обработка текстов и Обработка изображений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "А/В тестирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление данными",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Сбор и разметка данных для машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Системы обработки и анализа больших массивов данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Безопасность ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Информационный поиск",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Воркшоп по ML",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Языки программирования для работы с данными. Продвинутый уровень",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Продвинутое машинное обучение - дополнительные главы",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Применение машинного обучения в доменных областях",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Глубокое обучение и обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление технологическим продуктом",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Универсальная (надпрофессиональная) подготовка",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Магистратура/Аспирантура ИИ",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Мировоззренческий модуль + иняз",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык 2 сем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык 1 сем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Мировоззренческий модуль",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Предпринимательская культура",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Стартап-трек: от mvp до бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Создание и развитие технологического бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Креативные технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Мышление",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Критическое мышление (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Аспирантский трек",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "История и философия науки",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "История и философия науки",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык / Foreign Language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Иностранный язык / Foreign Language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Микромодули Soft Skills (1-3 семестры)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Элективные микромодули Soft Skills",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Обязательная проектная практика",
+    "ects": 18,
+    "hours": 648
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Проектная практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Производственная, преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Обязательная",
+    "name": "Проектная практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 2,
+    "type": "Обязательная",
+    "name": "Научно-исследовательская практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 3 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Производственная проектно-технологическая практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Производственная, научно-исследовательская практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 4 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Проектная работа",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Научно-исследовательская работа",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Государственная итоговая аттестация",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Подготовка к защите и защита ВКР",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык в профессиональной деятельности (аспирантский трек)",
+    "ects": 4,
+    "hours": 144
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык в профессиональной деятельности / Foreign Language for Professional activity",
+    "ects": 4,
+    "hours": 144
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Применение машинного обучения в доменных областях",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Глубокое обучение и обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Управление технологическим продуктом",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Универсальная (надпрофессиональная) подготовка",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Магистратура/Аспирантура ИИ",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Мировоззренческий модуль + иняз",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык 2 сем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык 1 сем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Мировоззренческий модуль",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Предпринимательская культура",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Стартап-трек: от mvp до бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Создание и развитие технологического бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Креативные технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Основы концептуального мышления",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Мышление",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Критическое мышление (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Аспирантский трек",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "История и философия науки",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "История и философия науки",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык / Foreign Language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык / Foreign Language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Микромодули Soft Skills (1-3 семестры)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Элективные микромодули Soft Skills",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Обязательная проектная практика",
+    "ects": 18,
+    "hours": 648
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Проектная практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Производственная, преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Проектная практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Научно-исследовательская практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 3 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Производственная проектно-технологическая практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Производственная, научно-исследовательская практика",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Практика по выбору. 4 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Проектная работа",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Научно-исследовательская работа",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Государственная итоговая аттестация",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Подготовка к защите и защита ВКР",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык в профессиональной деятельности (аспирантский трек)",
+    "ects": 4,
+    "hours": 144
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Иностранный язык в профессиональной деятельности / Foreign Language for Professional activity",
+    "ects": 4,
+    "hours": 144
+  },
+  {
+    "program": "ai",
+    "semester": 4,
+    "type": "Обязательная",
+    "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление мотивацией",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Инструменты принятия решений / Art & math of decision making",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Медиация и урегулирование разногласий / Mediation and dispute resolutio",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Развитие карьеры в современной профессиональной среде",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Выступления для молодых ученых",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Самопрезентация и питчинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Современное лидерство",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Межкультурная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Работа в удаленных командах",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Публичные выступления в онлайн-формате",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Техники ответов на вопросы в публичных выступлениях",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Публичные выступления в профессиональной деятельности / Pitches and speeches",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Планирование и изменение карьерной траектории / Launching and relaunching your career",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Основы публичных выступлений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Сторителлинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Стратегии эффективных переговоров с работодателем",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление стрессом / Stress management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Практики совместной работы и принятия решений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Сложная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Основы финансовой грамотности",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Целеполагание в современном мире",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление стрессом и профилактика выгорания",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Тайм-менеджмент",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление конфликтами",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Современная бизнес-коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Карьера в IT",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Эмпатичная коммуникация / Empathetic communication",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление мотивацией",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Инструменты принятия решений / Art & math of decision making",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Медиация и урегулирование разногласий / Mediation and dispute resolutio",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Развитие карьеры в современной профессиональной среде",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Выступления для молодых ученых",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Самопрезентация и питчинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Современное лидерство",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Межкультурная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Работа в удаленных командах",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Публичные выступления в онлайн-формате",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Техники ответов на вопросы в публичных выступлениях",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Публичные выступления в профессиональной деятельности / Pitches and speeches",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Планирование и изменение карьерной траектории / Launching and relaunching your career",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Основы публичных выступлений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Сторителлинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Стратегии эффективных переговоров с работодателем",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление стрессом / Stress management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Практики совместной работы и принятия решений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Сложная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Основы финансовой грамотности",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Целеполагание в современном мире",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление стрессом и профилактика выгорания",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Тайм-менеджмент",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Управление конфликтами",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Современная бизнес-коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Карьера в IT",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai",
+    "semester": 3,
+    "type": "Обязательная",
+    "name": "1, 2, 3 Эмпатичная коммуникация / Empathetic communication",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": null,
+    "type": "Не определено",
+    "name": "Индивидуальная профессиональная подготовка (по профессиональным областям, по",
+    "ects": 60,
+    "hours": 2160
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Обязательная",
+    "name": "профессиональным ролям, по уровню сложности и др.) Обязательные дисциплины. 1 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Обязательная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Обязательная",
+    "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 1 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Монетизация ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Стратегический продуктовый менеджмент",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы программирования на Python",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Метрики и аналитика продукта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление продуктовым портфелем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Основы маркетинга для ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Управление командами и проектами в ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Фандрайзинг и бизнес-планирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Данные в финансовом секторе",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Финансовые технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Глубокое обучение на практике",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения. 2 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 3 семестр",
+    "ects": 15,
+    "hours": 540
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Индивидуальная профессиональная подготовка (по профессиональным областям, по профессиональным ролям, по уровню сложности и др.)",
+    "ects": 60,
+    "hours": 2160
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обязательные дисциплины. 1 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продуктовые исследования",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Воркшоп по созданию продукта на данных / Data Product Development Workshop",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 1 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Монетизация ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Стратегический продуктовый менеджмент",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы программирования на Python",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 2 семестр",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Метрики и аналитика продукта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление продуктовым портфелем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы маркетинга для ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Управление командами и проектами в ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Фандрайзинг и бизнес-планирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инженерия данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Программирование на Python (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Данные в финансовом секторе",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Финансовые технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Глубокое обучение на практике",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование систем машинного обучения (ML System Design)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные задачи машинного обучения. 2 семестр",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Обработка естественного языка",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Интеллектуальные агенты и большие языковые модели",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Воркшоп по прикладному использованию языковых и генеративных моделей",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы построения рекомендательных систем",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Технологии компьютерного зрения",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 3 семестр",
+    "ects": 15,
+    "hours": 540
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Стратегический продуктовый менеджмент",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Монетизация ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 4 семестр",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Метрики и аналитика продукта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление продуктовым портфелем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Основы маркетинга для ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Управление командами и проектами в ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Правовые аспекты разработки и использования ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Фандрайзинг и бизнес-планирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 4,
+    "type": "Выборная",
+    "name": "Универсальная (надпрофессиональная) подготовка",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Микромодули Soft Skills (1-3 семестры)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Элективные микромодули Soft Skills",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Мировоззренческий модуль ии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Креативные технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Предпринимательская культура",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Стартап-трек: от mvp до бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Создание и развитие технологического бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Мышление",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Критическое мышление (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026) ИИ",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026). 2 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 2,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026). 1 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Практика",
+    "ects": 42,
+    "hours": 1512
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная практика",
+    "ects": 36,
+    "hours": 1296
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Процессы и методологии разработки решений на основе ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Продуктовый дизайн и прототипирование AI-решений",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Стратегический продуктовый менеджмент",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Монетизация ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математика для машинного обучения и анализа данных",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Математическая статистика",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы машинного обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы глубокого обучения",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Введение в большие языковые модели (LLM)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Прикладной анализ временных рядов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Инженерные практики в ML и анализе данных",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Прикладные инструменты разработки",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Разработка веб-приложений (Python Backend)",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Проектирование микросервисов",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Пул выборных дисциплин. 4 семестр",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Бизнес-анализ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Практики менторства и развития в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Управление проектами в Data Science",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Метрики и аналитика продукта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Управление продуктовым портфелем",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы маркетинга для ИИ-продуктов",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Управление командами и проектами в ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Правовые аспекты разработки и использования ИИ",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Фандрайзинг и бизнес-планирование",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Универсальная (надпрофессиональная) подготовка",
+    "ects": 12,
+    "hours": 432
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Микромодули Soft Skills (1-3 семестры)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "1, 2, 3 Элективные микромодули Soft Skills",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Мировоззренческий модуль ии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Креативные технологии",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления / Introduction to Conceptual Thinking",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Основы концептуального мышления",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Предпринимательская культура",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Стартап-трек: от mvp до бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Создание и развитие технологического бизнеса",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Мышление",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Этика в сфере информационных технологий и искусственного интеллекта",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Критическое мышление (продвинутый уровень)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Навыки критического мышления (продвинутый уровень) / Critical Thinking Skills (advanced)",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026) ИИ",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026). 2 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Иностранный язык (маг 2025/2026). 1 семестр",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык в профессиональной деятельности / English for specific purposes",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Русский язык как иностранный / Russian as a foreign language",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A2 / English A2",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Английский язык A1 / English A1",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Практика",
+    "ects": 42,
+    "hours": 1512
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, преддипломная практика",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная практика",
+    "ects": 36,
+    "hours": 1296
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Государственная итоговая аттестация",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Подготовка к защите и защита ВКР",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 1,
+    "type": "Выборная",
+    "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление мотивацией",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Инструменты принятия решений / Art & math of decision making",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Медиация и урегулирование разногласий / Mediation and dispute resolutio",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Развитие карьеры в современной профессиональной среде",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Выступления для молодых ученых",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Самопрезентация и питчинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Современное лидерство",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Межкультурная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Работа в удаленных командах",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Публичные выступления в онлайн-формате",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Техники ответов на вопросы в публичных выступлениях",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Публичные выступления в профессиональной деятельности / Pitches and speeches",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Планирование и изменение карьерной траектории / Launching and relaunching your career",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Основы публичных выступлений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Сторителлинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Стратегии эффективных переговоров с работодателем",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление стрессом / Stress management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Практики совместной работы и принятия решений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Сложная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Основы финансовой грамотности",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Целеполагание в современном мире",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление стрессом и профилактика выгорания",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Тайм-менеджмент",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление конфликтами",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Современная бизнес-коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Карьера в IT",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Эмпатичная коммуникация / Empathetic communication",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Производственная, технологическая (проектно-технологическая) практика",
+    "ects": 9,
+    "hours": 324
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Государственная итоговая аттестация",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Подготовка к защите и защита ВКР",
+    "ects": 6,
+    "hours": 216
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "Регуляция эмоционального состояния в профессиональной деятельности",
+    "ects": 3,
+    "hours": 108
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление мотивацией",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Инструменты принятия решений / Art & math of decision making",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Медиация и урегулирование разногласий / Mediation and dispute resolutio",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Развитие карьеры в современной профессиональной среде",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Выступления для молодых ученых",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Самопрезентация и питчинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Современное лидерство",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Межкультурная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Работа в удаленных командах",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Публичные выступления в онлайн-формате",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Техники ответов на вопросы в публичных выступлениях",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Публичные выступления в профессиональной деятельности / Pitches and speeches",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Доказательный подход к управлению карьерой / Evidence-based approach to career management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Планирование и изменение карьерной траектории / Launching and relaunching your career",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Основы публичных выступлений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Сторителлинг",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Стратегии эффективных переговоров с работодателем",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление стрессом / Stress management",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Практики совместной работы и принятия решений",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Сложная коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Основы финансовой грамотности",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Целеполагание в современном мире",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление стрессом и профилактика выгорания",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Тайм-менеджмент",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Управление конфликтами",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Современная бизнес-коммуникация",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Карьера в IT",
+    "ects": 1,
+    "hours": 36
+  },
+  {
+    "program": "ai_product",
+    "semester": 3,
+    "type": "Выборная",
+    "name": "1, 2, 3 Эмпатичная коммуникация / Empathetic communication",
+    "ects": 1,
+    "hours": 36
+  }
+]

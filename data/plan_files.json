@@ -1,0 +1,12 @@
+[
+  {
+    "program": "ai",
+    "url": "https://api.itmo.su/constructor-ep/api/v1/static/programs/10033/plan/abit/pdf",
+    "file": "data/10033-abit.pdf"
+  },
+  {
+    "program": "ai_product",
+    "url": "https://api.itmo.su/constructor-ep/api/v1/static/programs/10130/plan/abit/pdf",
+    "file": "data/10130-abit.pdf"
+  }
+]
